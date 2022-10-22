@@ -18,3 +18,8 @@ The first step in OOP is to collect all of the objects a programmer wants to man
 Examples of an object can range from physical entities, such as a human being who is described by properties like name and address, to small computer programs, such as widgets.
 
 Once an object is known, it is labeled with a class of objects that defines the kind of data it contains and any logic sequences that can manipulate it. Each distinct logic sequence is known as a method. Objects can communicate with well-defined interfaces called messages.
+
+
+
+
+Class suspended due to weekend.
